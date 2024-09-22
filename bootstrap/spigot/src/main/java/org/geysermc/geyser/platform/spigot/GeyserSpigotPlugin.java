@@ -114,7 +114,7 @@ public class GeyserSpigotPlugin extends JavaPlugin implements GeyserBootstrap {
             geyserLogger.error("*********************************************");
             geyserLogger.error("");
             geyserLogger.error(GeyserLocale.getLocaleStringLog("geyser.bootstrap.unsupported_server.header"));
-            geyserLogger.error(GeyserLocale.getLocaleStringLog("geyser.bootstrap.unsupported_server.message", "1.13.2"));
+            geyserLogger.error(GeyserLocale.getLocaleStringLog("geyser.bootstrap.unsupported_server.message", "1.8.8"));
             geyserLogger.error("");
             geyserLogger.error("*********************************************");
             return;
